@@ -1,0 +1,210 @@
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\WebAppByPratibhaMaam.dll.config
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\WebAppByPratibhaMaam.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\WebAppByPratibhaMaam.pdb
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\csc.exe
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\csc.exe.config
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\csc.rsp
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\csi.exe
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\csi.exe.config
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\csi.rsp
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CSharp.Core.targets
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\Microsoft.Managed.Core.targets
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.AppContext.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Collections.Immutable.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Console.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Diagnostics.StackTrace.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.IO.Compression.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.IO.FileSystem.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.IO.Pipes.AccessControl.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.IO.Pipes.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Reflection.Metadata.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Security.AccessControl.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Security.Claims.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Security.Principal.Windows.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Text.Encoding.CodePages.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.ValueTuple.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Xml.ReaderWriter.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Xml.XmlDocument.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Xml.XPath.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\System.Xml.XPath.XDocument.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\vbc.exe
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\vbc.exe.config
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\vbc.rsp
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\VBCSCompiler.exe
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\roslyn\VBCSCompiler.exe.config
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\Antlr3.Runtime.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\AspNet.ScriptManager.bootstrap.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\AspNet.ScriptManager.jQuery.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\Microsoft.AspNet.FriendlyUrls.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\Microsoft.ScriptManager.MSAjax.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\Microsoft.ScriptManager.WebForms.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\Microsoft.Web.Infrastructure.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\Newtonsoft.Json.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\System.Web.Optimization.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\WebGrease.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\System.Web.Optimization.xml
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\Newtonsoft.Json.xml
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\Antlr3.Runtime.pdb
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\Microsoft.AspNet.FriendlyUrls.xml
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\obj\Debug\WebAppByPratibhaMaam.csprojAssemblyReference.cache
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\obj\Debug\WebAppByPratibhaMaam.csproj.CopyComplete
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\obj\Debug\WebAppByPratibhaMaam.dll
+B:\Bachelors\Year3\CS6004_Application Development\CourseWork\Dev\StudentInformationSystem\WebAppByPratibhaMaam\obj\Debug\WebAppByPratibhaMaam.pdb
+B:\VisualStudio\WebAppByPratibhaMaam\bin\WebAppByPratibhaMaam.dll.config
+B:\VisualStudio\WebAppByPratibhaMaam\bin\WebAppByPratibhaMaam.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\WebAppByPratibhaMaam.pdb
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\csc.exe
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\csc.exe.config
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\csc.rsp
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\csi.exe
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\csi.exe.config
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\csi.rsp
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CSharp.Core.targets
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.Managed.Core.targets
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.AppContext.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Collections.Immutable.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Console.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Diagnostics.StackTrace.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.IO.Compression.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.IO.FileSystem.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.IO.Pipes.AccessControl.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.IO.Pipes.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Reflection.Metadata.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.AccessControl.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.Claims.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.Principal.Windows.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Text.Encoding.CodePages.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.ValueTuple.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Xml.ReaderWriter.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Xml.XmlDocument.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Xml.XPath.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Xml.XPath.XDocument.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\vbc.exe
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\vbc.exe.config
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\vbc.rsp
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\VBCSCompiler.exe
+B:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\VBCSCompiler.exe.config
+B:\VisualStudio\WebAppByPratibhaMaam\bin\Antlr3.Runtime.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\AspNet.ScriptManager.bootstrap.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\AspNet.ScriptManager.jQuery.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.AspNet.FriendlyUrls.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.ScriptManager.MSAjax.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.ScriptManager.WebForms.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.Web.Infrastructure.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\Newtonsoft.Json.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\System.Web.Optimization.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\WebGrease.dll
+B:\VisualStudio\WebAppByPratibhaMaam\bin\System.Web.Optimization.xml
+B:\VisualStudio\WebAppByPratibhaMaam\bin\Newtonsoft.Json.xml
+B:\VisualStudio\WebAppByPratibhaMaam\bin\Antlr3.Runtime.pdb
+B:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.AspNet.FriendlyUrls.xml
+B:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+B:\VisualStudio\WebAppByPratibhaMaam\obj\Debug\WebAppByPratibhaMaam.csproj.CopyComplete
+B:\VisualStudio\WebAppByPratibhaMaam\obj\Debug\WebAppByPratibhaMaam.dll
+B:\VisualStudio\WebAppByPratibhaMaam\obj\Debug\WebAppByPratibhaMaam.pdb
+B:\VisualStudio\WebAppByPratibhaMaam\obj\Debug\WebAppByPratibhaMaam.csprojAssemblyReference.cache
+E:\VisualStudio\WebAppByPratibhaMaam\bin\WebAppByPratibhaMaam.dll.config
+E:\VisualStudio\WebAppByPratibhaMaam\bin\WebAppByPratibhaMaam.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\WebAppByPratibhaMaam.pdb
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\csc.exe
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\csc.exe.config
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\csc.rsp
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\csi.exe
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\csi.exe.config
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\csi.rsp
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.Managed.Core.targets
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.AppContext.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Collections.Immutable.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Console.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.IO.Compression.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.IO.FileSystem.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.IO.Pipes.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Reflection.Metadata.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.AccessControl.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.Claims.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Security.Principal.Windows.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.ValueTuple.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Xml.XmlDocument.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Xml.XPath.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\vbc.exe
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\vbc.exe.config
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\vbc.rsp
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\VBCSCompiler.exe
+E:\VisualStudio\WebAppByPratibhaMaam\bin\roslyn\VBCSCompiler.exe.config
+E:\VisualStudio\WebAppByPratibhaMaam\bin\Antlr3.Runtime.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\AspNet.ScriptManager.bootstrap.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\AspNet.ScriptManager.jQuery.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.ScriptManager.WebForms.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.Web.Infrastructure.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\Newtonsoft.Json.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\System.Web.Optimization.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\WebGrease.dll
+E:\VisualStudio\WebAppByPratibhaMaam\bin\System.Web.Optimization.xml
+E:\VisualStudio\WebAppByPratibhaMaam\bin\Newtonsoft.Json.xml
+E:\VisualStudio\WebAppByPratibhaMaam\bin\Antlr3.Runtime.pdb
+E:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\VisualStudio\WebAppByPratibhaMaam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VisualStudio\WebAppByPratibhaMaam\obj\Debug\WebAppByPratibhaMaam.csprojAssemblyReference.cache
+E:\VisualStudio\WebAppByPratibhaMaam\obj\Debug\WebAppByPratibhaMaam.csproj.CopyComplete
+E:\VisualStudio\WebAppByPratibhaMaam\obj\Debug\WebAppByPratibhaMaam.dll
+E:\VisualStudio\WebAppByPratibhaMaam\obj\Debug\WebAppByPratibhaMaam.pdb
