@@ -62,7 +62,7 @@
                         <li><a runat="server" href="~/TourGuide">Tour Guide</a></li>
                         <li><a runat="server" href="~/CustomerPackage">Customer Package</a></li>
                         <li><a runat="server" href="~/StaffRole">Staff Role</a></li>
-                        <li><a runat="server" href="~/PackageSchedule">Package Schedule</a></li>
+                        <li><a runat="server" href="~/PackageActivity">Package Activity</a></li>
                     </ul>
                 </div>
             </div>

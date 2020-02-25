@@ -13,7 +13,7 @@
     <br />
     <asp:Label ID="labelStaffDesignation" runat="server" Text="Staff Designation"></asp:Label>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <asp:DropDownList ID="ddStaffDesignationId" runat="server" DataSourceID="ddDesignationId" DataTextField="D_NAME" DataValueField="D_ID" Height="33px" Width="124px">
+    <asp:DropDownList ID="ddStaffDesignationId" runat="server" DataSourceID="ddDesignationId" DataTextField="D_NAME" DataValueField="D_ID" Height="30px" Width="150px">
     </asp:DropDownList>
     <asp:SqlDataSource ID="ddDesignationId" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionStringForStaff %>" ProviderName="<%$ ConnectionStrings:ConnectionStringForStaff.ProviderName %>" SelectCommand="SELECT &quot;D_ID&quot;, &quot;D_NAME&quot; FROM &quot;DESIGNATION&quot;"></asp:SqlDataSource>
     <asp:SqlDataSource ID="SqlDataSource1" runat="server"></asp:SqlDataSource>

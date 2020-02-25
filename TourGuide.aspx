@@ -28,6 +28,7 @@
     <asp:Button ID="Button1" runat="server" Text="Save" Height="39px" Width="262px" />
     <br />
     <br />-->
+    <br />
     <asp:GridView ID="GridView1" runat="server" Height="121px" Width="947px" AutoGenerateColumns="False" DataSourceID="VisitNepal2020TourGuide" DataKeyNames="TG_ID" AllowSorting="True">
         <Columns>
             <asp:CommandField ShowDeleteButton="True" ShowEditButton="True" />
